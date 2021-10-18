@@ -6,6 +6,9 @@
 ### Description
 VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.
 
+### License
+GPLv2
+
 ### Icon
 
 ![Icon](game.libretro.vbam/resources/icon.png)
@@ -18,4 +21,4 @@ VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official
 
 ![Screenshot](game.libretro.vbam/resources/screenshot-03.jpg)
 
-You can view a list of Libretro cores that have been ported to Kodi at the [Game add-ons - Libretro cores](https://kodi.wiki/view/Game_add-ons#Libretro_cores) wiki article.
+
