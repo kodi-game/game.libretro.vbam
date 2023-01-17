@@ -28,6 +28,7 @@
 		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA-M) 2.1.3 254f6ef</summary>
 		<description lang="da_DK">VBA-M er en Nintendo Game Boy og Game Boy Advance-emulator baseret på den officielle VisualBoyAdvance af Forgotten og VBA-udviklingsteamet.</description>
 		<description lang="en_GB">VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.</description>
+		<description lang="es_ES">VBA-M es un emulador de Nintendo Game Boy y Game Boy Advance basado en el VisualBoyAdvance oficial de Forgotten y el equipo de desarrollo de VBA.</description>
 		<description lang="zh_CN">VBA-M 是任天堂 Game Boy 和 Game Boy Advance 仿真器，基于官方的 VisualBoyAdvance 和 VBA 开发团队。</description>
 	</extension>
 </addon>
