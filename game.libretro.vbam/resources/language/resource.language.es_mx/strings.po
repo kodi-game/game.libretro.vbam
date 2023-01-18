@@ -30,60 +30,60 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Solar Sensor Level"
-msgstr "Nivel de sensor solar"
+msgid "Use Official BIOS (If Available)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Use Official BIOS (If Available)"
-msgstr "Utilizar BIOS oficial (si está disponible)"
+msgid "Force-Enable RTC"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Force-Enable RTC"
-msgstr "Forzar activación de RTC"
+msgid "(GB) Emulated Hardware (Needs Restart)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Sound Interpolation"
-msgstr "Interpolación de sonido"
+msgid "(GB) Enable Colorizer Hack (Needs Restart)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sound Filtering"
-msgstr "Filtro de sonido"
+msgid "(GB) Color Palette"
+msgstr ""
 
 msgctxt "#30006"
-msgid "(GB) Color Palette"
-msgstr "(GB) Paleta de color"
+msgid "(GB) Show Borders"
+msgstr ""
 
 msgctxt "#30007"
-msgid "(GB) Emulated Hardware (Needs Restart)"
-msgstr "(GB) Hardware emulado (requiere reiniciar)"
+msgid "(GB) Color Correction"
+msgstr ""
 
 msgctxt "#30008"
-msgid "(GB) Enable Colorizer Hack (Needs Restart)"
-msgstr "(GB) Activar hack de colorizar (requiere reiniciar)"
+msgid "LCD Color Filter"
+msgstr ""
 
 msgctxt "#30009"
-msgid "(GB) Show Borders"
-msgstr "(GB) Mostrar bordes"
+msgid "Interframe Blending"
+msgstr ""
 
 msgctxt "#30010"
-msgid "(GB) Color Correction"
-msgstr "(GB) Corrección de color"
+msgid "Sound Interpolation"
+msgstr ""
 
 msgctxt "#30011"
-msgid "LCD Color Filter"
-msgstr "Filtro de color LCD"
+msgid "Sound Filtering"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Interframe Blending"
-msgstr "Mezcla entre cuadros"
+msgid "Enable Turbo Buttons"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable Turbo Buttons"
-msgstr "Activar botones turbo"
+msgid "Turbo Delay (in frames)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Turbo Delay (in frames)"
-msgstr "Retraso turbo (en cuadros)"
+msgid "Solar Sensor Level"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Sensors Deadzone (%)"
@@ -102,61 +102,173 @@ msgid "Swap Left/Right Analog"
 msgstr "Alternar análogos izquierdo/derecho"
 
 msgctxt "#30019"
-msgid "Show Advanced Options"
-msgstr "Mostrar opciones avanzadas"
+msgid "Sound Channel 1"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Sound Channel 1"
-msgstr "Canal de sonido 1"
+msgid "Sound Channel 2"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Sound Channel 2"
-msgstr "Canal de sonido 2"
+msgid "Sound Channel 3"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Sound Channel 3"
-msgstr "Canal de sonido 3"
+msgid "Sound Channel 4"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Sound Channel 4"
-msgstr "Canal de sonido 4"
+msgid "Sound DMA Channel A"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Sound DMA Channel A"
-msgstr "Canal DMA de sonido A"
+msgid "Sound DMA Channel B"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Sound DMA Channel B"
-msgstr "Canal DMA de sonido B"
+msgid "Show Background Layer 1"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Background Layer 1"
-msgstr "Mostrar capa de fondo 1"
+msgid "Show Background Layer 2"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Show Background Layer 2"
-msgstr "Mostrar capa de fondo 2"
+msgid "Show Background Layer 3"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Show Background Layer 3"
-msgstr "Mostrar capa de fondo 3"
+msgid "Show Background Layer 4"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Show Background Layer 4"
-msgstr "Mostrar capa de fondo 4"
+msgid "Show Sprite Layer"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Show Sprite Layer"
-msgstr "Mostrar capa de sprites"
+msgid "Show Window Layer 1"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Show Window Layer 1"
-msgstr "Mostrar capa de ventana 1"
+msgid "Show Window Layer 2"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Show Window Layer 2"
-msgstr "Mostrar capa de ventana 2"
-
-msgctxt "#30033"
 msgid "Show Sprite Window Layer"
-msgstr "Mostrar capa de ventana de sprites"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Solar Sensor Level"
+#~ msgstr "Nivel de sensor solar"
+
+#~ msgctxt "#30002"
+#~ msgid "Use Official BIOS (If Available)"
+#~ msgstr "Utilizar BIOS oficial (si está disponible)"
+
+#~ msgctxt "#30003"
+#~ msgid "Force-Enable RTC"
+#~ msgstr "Forzar activación de RTC"
+
+#~ msgctxt "#30004"
+#~ msgid "Sound Interpolation"
+#~ msgstr "Interpolación de sonido"
+
+#~ msgctxt "#30005"
+#~ msgid "Sound Filtering"
+#~ msgstr "Filtro de sonido"
+
+#~ msgctxt "#30006"
+#~ msgid "(GB) Color Palette"
+#~ msgstr "(GB) Paleta de color"
+
+#~ msgctxt "#30007"
+#~ msgid "(GB) Emulated Hardware (Needs Restart)"
+#~ msgstr "(GB) Hardware emulado (requiere reiniciar)"
+
+#~ msgctxt "#30008"
+#~ msgid "(GB) Enable Colorizer Hack (Needs Restart)"
+#~ msgstr "(GB) Activar hack de colorizar (requiere reiniciar)"
+
+#~ msgctxt "#30009"
+#~ msgid "(GB) Show Borders"
+#~ msgstr "(GB) Mostrar bordes"
+
+#~ msgctxt "#30010"
+#~ msgid "(GB) Color Correction"
+#~ msgstr "(GB) Corrección de color"
+
+#~ msgctxt "#30011"
+#~ msgid "LCD Color Filter"
+#~ msgstr "Filtro de color LCD"
+
+#~ msgctxt "#30012"
+#~ msgid "Interframe Blending"
+#~ msgstr "Mezcla entre cuadros"
+
+#~ msgctxt "#30013"
+#~ msgid "Enable Turbo Buttons"
+#~ msgstr "Activar botones turbo"
+
+#~ msgctxt "#30014"
+#~ msgid "Turbo Delay (in frames)"
+#~ msgstr "Retraso turbo (en cuadros)"
+
+#~ msgctxt "#30019"
+#~ msgid "Show Advanced Options"
+#~ msgstr "Mostrar opciones avanzadas"
+
+#~ msgctxt "#30020"
+#~ msgid "Sound Channel 1"
+#~ msgstr "Canal de sonido 1"
+
+#~ msgctxt "#30021"
+#~ msgid "Sound Channel 2"
+#~ msgstr "Canal de sonido 2"
+
+#~ msgctxt "#30022"
+#~ msgid "Sound Channel 3"
+#~ msgstr "Canal de sonido 3"
+
+#~ msgctxt "#30023"
+#~ msgid "Sound Channel 4"
+#~ msgstr "Canal de sonido 4"
+
+#~ msgctxt "#30024"
+#~ msgid "Sound DMA Channel A"
+#~ msgstr "Canal DMA de sonido A"
+
+#~ msgctxt "#30025"
+#~ msgid "Sound DMA Channel B"
+#~ msgstr "Canal DMA de sonido B"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Background Layer 1"
+#~ msgstr "Mostrar capa de fondo 1"
+
+#~ msgctxt "#30027"
+#~ msgid "Show Background Layer 2"
+#~ msgstr "Mostrar capa de fondo 2"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Background Layer 3"
+#~ msgstr "Mostrar capa de fondo 3"
+
+#~ msgctxt "#30029"
+#~ msgid "Show Background Layer 4"
+#~ msgstr "Mostrar capa de fondo 4"
+
+#~ msgctxt "#30030"
+#~ msgid "Show Sprite Layer"
+#~ msgstr "Mostrar capa de sprites"
+
+#~ msgctxt "#30031"
+#~ msgid "Show Window Layer 1"
+#~ msgstr "Mostrar capa de ventana 1"
+
+#~ msgctxt "#30032"
+#~ msgid "Show Window Layer 2"
+#~ msgstr "Mostrar capa de ventana 2"
+
+#~ msgctxt "#30033"
+#~ msgid "Show Sprite Window Layer"
+#~ msgstr "Mostrar capa de ventana de sprites"

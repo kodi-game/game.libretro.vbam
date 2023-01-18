@@ -30,60 +30,60 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Solar Sensor Level"
-msgstr "Niveau for solsensor"
+msgid "Use Official BIOS (If Available)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Use Official BIOS (If Available)"
-msgstr "Brug officiel BIOS (hvis tilgængelig)"
+msgid "Force-Enable RTC"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Force-Enable RTC"
-msgstr "Gennemtving aktivering af RTC"
+msgid "(GB) Emulated Hardware (Needs Restart)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Sound Interpolation"
-msgstr "Lydinterpolation"
+msgid "(GB) Enable Colorizer Hack (Needs Restart)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Sound Filtering"
-msgstr "Lydfiltrering"
+msgid "(GB) Color Palette"
+msgstr ""
 
 msgctxt "#30006"
-msgid "(GB) Color Palette"
-msgstr "(GB) Farvepalette"
+msgid "(GB) Show Borders"
+msgstr ""
 
 msgctxt "#30007"
-msgid "(GB) Emulated Hardware (Needs Restart)"
-msgstr "(GB) Emuleret hardware (kræver genstart)"
+msgid "(GB) Color Correction"
+msgstr ""
 
 msgctxt "#30008"
-msgid "(GB) Enable Colorizer Hack (Needs Restart)"
-msgstr "(GB) Aktiver farvelægnings-hack (kræver genstart)"
+msgid "LCD Color Filter"
+msgstr ""
 
 msgctxt "#30009"
-msgid "(GB) Show Borders"
-msgstr "(GB) Vis kanter"
+msgid "Interframe Blending"
+msgstr ""
 
 msgctxt "#30010"
-msgid "(GB) Color Correction"
-msgstr "(GB) Farvekorrektion"
+msgid "Sound Interpolation"
+msgstr ""
 
 msgctxt "#30011"
-msgid "LCD Color Filter"
-msgstr "LCD farvefilter"
+msgid "Sound Filtering"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Interframe Blending"
-msgstr "Interframe-blanding"
+msgid "Enable Turbo Buttons"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable Turbo Buttons"
-msgstr "Aktiver turboknapper"
+msgid "Turbo Delay (in frames)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Turbo Delay (in frames)"
-msgstr "Forsinkelse af turbo (i frames)"
+msgid "Solar Sensor Level"
+msgstr ""
 
 msgctxt "#30015"
 msgid "Sensors Deadzone (%)"
@@ -102,61 +102,173 @@ msgid "Swap Left/Right Analog"
 msgstr "Byt venstre/højre analog"
 
 msgctxt "#30019"
-msgid "Show Advanced Options"
-msgstr "Vis avancerede indstillinger"
+msgid "Sound Channel 1"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Sound Channel 1"
-msgstr "Lydkanal 1"
+msgid "Sound Channel 2"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Sound Channel 2"
-msgstr "Lydkanal 2"
+msgid "Sound Channel 3"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Sound Channel 3"
-msgstr "Lydkanal 3"
+msgid "Sound Channel 4"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Sound Channel 4"
-msgstr "Lydkanal 4"
+msgid "Sound DMA Channel A"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Sound DMA Channel A"
-msgstr "Lyd DMA-kanal A"
+msgid "Sound DMA Channel B"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Sound DMA Channel B"
-msgstr "Lyd DMA-kanal B"
+msgid "Show Background Layer 1"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Show Background Layer 1"
-msgstr "Vis baggrundslag 1"
+msgid "Show Background Layer 2"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Show Background Layer 2"
-msgstr "Vis baggrundslag 2"
+msgid "Show Background Layer 3"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Show Background Layer 3"
-msgstr "Vis baggrundslag 3"
+msgid "Show Background Layer 4"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Show Background Layer 4"
-msgstr "Vis baggrundslag 4"
+msgid "Show Sprite Layer"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Show Sprite Layer"
-msgstr "Vis sprite-lag"
+msgid "Show Window Layer 1"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Show Window Layer 1"
-msgstr "Vis vindues-lag 1"
+msgid "Show Window Layer 2"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Show Window Layer 2"
-msgstr "Vis vindues-lag 2"
-
-msgctxt "#30033"
 msgid "Show Sprite Window Layer"
-msgstr "Vis sprite vindues-lag"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Solar Sensor Level"
+#~ msgstr "Niveau for solsensor"
+
+#~ msgctxt "#30002"
+#~ msgid "Use Official BIOS (If Available)"
+#~ msgstr "Brug officiel BIOS (hvis tilgængelig)"
+
+#~ msgctxt "#30003"
+#~ msgid "Force-Enable RTC"
+#~ msgstr "Gennemtving aktivering af RTC"
+
+#~ msgctxt "#30004"
+#~ msgid "Sound Interpolation"
+#~ msgstr "Lydinterpolation"
+
+#~ msgctxt "#30005"
+#~ msgid "Sound Filtering"
+#~ msgstr "Lydfiltrering"
+
+#~ msgctxt "#30006"
+#~ msgid "(GB) Color Palette"
+#~ msgstr "(GB) Farvepalette"
+
+#~ msgctxt "#30007"
+#~ msgid "(GB) Emulated Hardware (Needs Restart)"
+#~ msgstr "(GB) Emuleret hardware (kræver genstart)"
+
+#~ msgctxt "#30008"
+#~ msgid "(GB) Enable Colorizer Hack (Needs Restart)"
+#~ msgstr "(GB) Aktiver farvelægnings-hack (kræver genstart)"
+
+#~ msgctxt "#30009"
+#~ msgid "(GB) Show Borders"
+#~ msgstr "(GB) Vis kanter"
+
+#~ msgctxt "#30010"
+#~ msgid "(GB) Color Correction"
+#~ msgstr "(GB) Farvekorrektion"
+
+#~ msgctxt "#30011"
+#~ msgid "LCD Color Filter"
+#~ msgstr "LCD farvefilter"
+
+#~ msgctxt "#30012"
+#~ msgid "Interframe Blending"
+#~ msgstr "Interframe-blanding"
+
+#~ msgctxt "#30013"
+#~ msgid "Enable Turbo Buttons"
+#~ msgstr "Aktiver turboknapper"
+
+#~ msgctxt "#30014"
+#~ msgid "Turbo Delay (in frames)"
+#~ msgstr "Forsinkelse af turbo (i frames)"
+
+#~ msgctxt "#30019"
+#~ msgid "Show Advanced Options"
+#~ msgstr "Vis avancerede indstillinger"
+
+#~ msgctxt "#30020"
+#~ msgid "Sound Channel 1"
+#~ msgstr "Lydkanal 1"
+
+#~ msgctxt "#30021"
+#~ msgid "Sound Channel 2"
+#~ msgstr "Lydkanal 2"
+
+#~ msgctxt "#30022"
+#~ msgid "Sound Channel 3"
+#~ msgstr "Lydkanal 3"
+
+#~ msgctxt "#30023"
+#~ msgid "Sound Channel 4"
+#~ msgstr "Lydkanal 4"
+
+#~ msgctxt "#30024"
+#~ msgid "Sound DMA Channel A"
+#~ msgstr "Lyd DMA-kanal A"
+
+#~ msgctxt "#30025"
+#~ msgid "Sound DMA Channel B"
+#~ msgstr "Lyd DMA-kanal B"
+
+#~ msgctxt "#30026"
+#~ msgid "Show Background Layer 1"
+#~ msgstr "Vis baggrundslag 1"
+
+#~ msgctxt "#30027"
+#~ msgid "Show Background Layer 2"
+#~ msgstr "Vis baggrundslag 2"
+
+#~ msgctxt "#30028"
+#~ msgid "Show Background Layer 3"
+#~ msgstr "Vis baggrundslag 3"
+
+#~ msgctxt "#30029"
+#~ msgid "Show Background Layer 4"
+#~ msgstr "Vis baggrundslag 4"
+
+#~ msgctxt "#30030"
+#~ msgid "Show Sprite Layer"
+#~ msgstr "Vis sprite-lag"
+
+#~ msgctxt "#30031"
+#~ msgid "Show Window Layer 1"
+#~ msgstr "Vis vindues-lag 1"
+
+#~ msgctxt "#30032"
+#~ msgid "Show Window Layer 2"
+#~ msgstr "Vis vindues-lag 2"
+
+#~ msgctxt "#30033"
+#~ msgid "Show Sprite Window Layer"
+#~ msgstr "Vis sprite vindues-lag"
