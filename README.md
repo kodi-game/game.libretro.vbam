@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.vbam/resources/icon.png)
+![Nintendo - Game Boy Advance (VBA-M) icon](game.libretro.vbam/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.vbam/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.vbam/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.vbam/resources/screenshot-03.jpg)
+![Nintendo - Game Boy Advance (VBA-M) screenshot](game.libretro.vbam/resources/screenshot-01.jpg)
+![Nintendo - Game Boy Advance (VBA-M) screenshot](game.libretro.vbam/resources/screenshot-02.jpg)
+![Nintendo - Game Boy Advance (VBA-M) screenshot](game.libretro.vbam/resources/screenshot-03.jpg)
