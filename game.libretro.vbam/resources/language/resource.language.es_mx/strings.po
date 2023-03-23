@@ -23,9 +23,7 @@ msgid "Nintendo - Game Boy Advance (VBA-M)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the "
-"official VisualBoyAdvance by Forgotten and the VBA development team."
+msgid "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team."
 msgstr ""
 
 msgctxt "#30000"

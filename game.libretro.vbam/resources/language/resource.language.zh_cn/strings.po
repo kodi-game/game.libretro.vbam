@@ -23,10 +23,9 @@ msgid "Nintendo - Game Boy Advance (VBA-M)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
-"VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the "
-"official VisualBoyAdvance by Forgotten and the VBA development team."
-msgstr ""
+msgid "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team."
+msgstr "[CR]VBA-M 是任天堂 Game Boy 和 Game Boy Advance 仿真器，基于官方的 [CR]VisualBoyAdvance 和 VBA 开发团队。"
+
 "VBA-M 是任天堂 Game Boy 和 Game Boy Advance 仿真器，基于官方的 "
 "VisualBoyAdvance 和 VBA 开发团队。"
 
