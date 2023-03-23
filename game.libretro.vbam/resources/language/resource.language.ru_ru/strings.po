@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.5.3\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Game Boy Advance (VBA-M) 2.1.3 254f6ef"
+msgid "Nintendo - Game Boy Advance (VBA-M)"
 msgstr ""
 
 msgctxt "Addon Description"
