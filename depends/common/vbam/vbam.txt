@@ -1,1 +1,1 @@
-vbam https://github.com/libretro/vbam-libretro/archive/640ce45325694d1dc574e90c95c55bc464368d7e.tar.gz
+vbam https://github.com/visualboyadvance-m/visualboyadvance-m/archive/d3f8cc171414433f8ab56847fbfe7561e942c38a.tar.gz
