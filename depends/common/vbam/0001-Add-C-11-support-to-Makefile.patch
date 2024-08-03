@@ -1,0 +1,26 @@
+From 1fe0c86a796975c5efb20ff732a87f085f98fbf1 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Fri, 2 Aug 2024 22:11:52 -0700
+Subject: [PATCH] Add C++11 support to Makefile
+
+---
+ src/libretro/Makefile | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/src/libretro/Makefile b/src/libretro/Makefile
+index 195a5bfa..82955b8b 100644
+--- a/src/libretro/Makefile
++++ b/src/libretro/Makefile
+@@ -57,7 +57,8 @@ VBAM_VERSION   := $(shell sed -En 's/.*\[([0-9]+[^]]+).*/\1/p; T; q' ../../CHANG
+ TAG_COMMIT     := $(shell git rev-list -n 1 v$(VBAM_VERSION) --abbrev-commit 2>/dev/null)
+ CURRENT_COMMIT := $(shell git rev-parse --short HEAD 2>/dev/null)
+ 
+-CXXFLAGS += -DVBAM_VERSION=\"$(VBAM_VERSION)\"
++CXXFLAGS += -DVBAM_VERSION=\"$(VBAM_VERSION)\" -std=c++11
++CFLAGS += -std=c++11
+ ifneq ($(CURRENT_COMMIT),$(TAG_COMMIT))
+ 	CXXFLAGS += -DGIT_COMMIT=\"$(CURRENT_COMMIT)\"
+ endif
+-- 
+2.37.0.windows.1
+
