@@ -1,7 +1,7 @@
 From 86f143fbe5f076a95161f96ab94214dbf073aac6 Mon Sep 17 00:00:00 2001
 From: Garrett Brown <themagnificentmrb@gmail.com>
 Date: Fri, 2 Aug 2024 22:11:52 -0700
-Subject: [PATCH] Add C++17 support to Makefile
+Subject: [PATCH 1/2] Add C++17 support to Makefile
 
 ---
  src/libretro/Makefile | 3 ++-
