@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vbam"
 		name="Nintendo - Game Boy Advance (VBA-M)"
-		version="2.1.9.50"
+		version="2.1.11.51"
 		provider-name="Forgotten, VBA-M Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
