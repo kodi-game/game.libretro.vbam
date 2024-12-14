@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team."
 msgstr "VBA-M ist ein Emulator für Nintendo Game Boy und Game Boy Advance, der auf dem offiziellen VisualBoyAdvance von Forgotten und dem VBA-Entwicklerteam basiert."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Use Official BIOS (If Available)"
 msgstr "Offizielles BIOS verwenden (falls vorhanden)"
@@ -156,3 +152,7 @@ msgstr "Fensterlayer 2 anzeigen"
 msgctxt "#30032"
 msgid "Show Sprite Window Layer"
 msgstr "Sprite-Fenster-Layer anzeigen"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
