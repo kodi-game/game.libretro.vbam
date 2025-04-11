@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vbam\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:06+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vbam/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "VBA-M är en Nintendo Game Boy- och Game Boy Advance-emulator baserad p�
 
 msgctxt "#30001"
 msgid "Use Official BIOS (If Available)"
-msgstr ""
+msgstr "Använd officiellt BIOS (om tillgängligt)"
 
 msgctxt "#30002"
 msgid "Force-Enable RTC"
