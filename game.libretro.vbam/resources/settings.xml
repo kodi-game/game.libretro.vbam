@@ -9,6 +9,8 @@
 		<setting label="30006" type="select" id="vbam_showborders" values="disabled|enabled|auto" default="disabled"/>
 		<setting label="30007" type="select" id="vbam_gbcoloroption" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="vbam_lcdfilter" values="disabled|enabled" default="disabled"/>
+		<setting label="30033" type="select" id="vbam_lcdfilter_type" values="sRGB|DCI|Rec2020" default="sRGB"/>
+		<setting label="30034" type="select" id="vbam_color_change" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100" default="0"/>
 		<setting label="30009" type="select" id="vbam_interframeblending" values="disabled|smart|motion blur" default="disabled"/>
 		<setting label="30010" type="select" id="vbam_soundinterpolation" values="enabled|disabled" default="enabled"/>
 		<setting label="30011" type="select" id="vbam_soundfiltering" values="5|0|1|2|3|4|6|7|8|9|10" default="5"/>
