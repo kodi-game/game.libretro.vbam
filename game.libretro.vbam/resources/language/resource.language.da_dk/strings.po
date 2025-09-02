@@ -153,6 +153,14 @@ msgctxt "#30032"
 msgid "Show Sprite Window Layer"
 msgstr "Vis sprite vindues-lag"
 
+msgctxt "#30033"
+msgid "LCD Color Filter Type"
+msgstr ""
+
+msgctxt "#30034"
+msgid "LCD Color Lighten/Darken"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Indstillinger"
