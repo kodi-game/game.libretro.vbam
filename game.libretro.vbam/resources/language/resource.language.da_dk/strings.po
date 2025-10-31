@@ -61,14 +61,6 @@ msgctxt "#30009"
 msgid "Interframe Blending"
 msgstr "Interframe-blanding"
 
-msgctxt "#30010"
-msgid "Sound Interpolation"
-msgstr "Lydinterpolation"
-
-msgctxt "#30011"
-msgid "Sound Filtering"
-msgstr "Lydfiltrering"
-
 msgctxt "#30012"
 msgid "Enable Turbo Buttons"
 msgstr "Aktiver turboknapper"
@@ -160,6 +152,38 @@ msgstr ""
 msgctxt "#30034"
 msgid "LCD Color Lighten/Darken"
 msgstr ""
+
+msgctxt "#30035"
+msgid "(GBA) Sound Interpolation"
+msgstr ""
+
+msgctxt "#30036"
+msgid "(GBA) Sound Filtering"
+msgstr ""
+
+msgctxt "#30037"
+msgid "(GB) Sound Effects"
+msgstr ""
+
+msgctxt "#30038"
+msgid "(GB) Echo Effects"
+msgstr ""
+
+msgctxt "#30039"
+msgid "(GB) Stereo Effects"
+msgstr ""
+
+msgctxt "#30040"
+msgid "(GB) Surround Effects"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Sound Interpolation"
+#~ msgstr "Lydinterpolation"
+
+#~ msgctxt "#30011"
+#~ msgid "Sound Filtering"
+#~ msgstr "Lydfiltrering"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vbam\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-10-31 16:30+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vbam/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Game Boy Advance (VBA-M)"
@@ -60,14 +60,6 @@ msgstr "LCD-färgfilter"
 msgctxt "#30009"
 msgid "Interframe Blending"
 msgstr "Blandning mellan bildrutor"
-
-msgctxt "#30010"
-msgid "Sound Interpolation"
-msgstr "Interpolering av ljud"
-
-msgctxt "#30011"
-msgid "Sound Filtering"
-msgstr "Filtrering av ljud"
 
 msgctxt "#30012"
 msgid "Enable Turbo Buttons"
@@ -155,11 +147,43 @@ msgstr "Visa Sprite-fönsterlager"
 
 msgctxt "#30033"
 msgid "LCD Color Filter Type"
-msgstr ""
+msgstr "Typ för LCD-färgfilter"
 
 msgctxt "#30034"
 msgid "LCD Color Lighten/Darken"
 msgstr ""
+
+msgctxt "#30035"
+msgid "(GBA) Sound Interpolation"
+msgstr ""
+
+msgctxt "#30036"
+msgid "(GBA) Sound Filtering"
+msgstr ""
+
+msgctxt "#30037"
+msgid "(GB) Sound Effects"
+msgstr ""
+
+msgctxt "#30038"
+msgid "(GB) Echo Effects"
+msgstr ""
+
+msgctxt "#30039"
+msgid "(GB) Stereo Effects"
+msgstr ""
+
+msgctxt "#30040"
+msgid "(GB) Surround Effects"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Sound Interpolation"
+#~ msgstr "Interpolering av ljud"
+
+#~ msgctxt "#30011"
+#~ msgid "Sound Filtering"
+#~ msgstr "Filtrering av ljud"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
