@@ -49,10 +49,6 @@ msgctxt "#30006"
 msgid "(GB) Show Borders"
 msgstr ""
 
-msgctxt "#30007"
-msgid "(GB) Color Correction"
-msgstr ""
-
 msgctxt "#30008"
 msgid "LCD Color Filter"
 msgstr ""
@@ -87,30 +83,6 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Swap Left/Right Analog"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Sound Channel 1"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Sound Channel 2"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Sound Channel 3"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Sound Channel 4"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Sound DMA Channel A"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Sound DMA Channel B"
 msgstr ""
 
 msgctxt "#30025"
@@ -175,6 +147,30 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "(GB) Surround Effects"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Square Channel 1 (Sweep)"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Square Channel 2"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Wave Channel"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Noise Channel"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Direct Sound A (GBA only)"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Direct Sound B (GBA only)"
 msgstr ""
 
 #~ msgctxt "#30000"

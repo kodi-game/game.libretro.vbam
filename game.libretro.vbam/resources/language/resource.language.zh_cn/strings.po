@@ -49,10 +49,6 @@ msgctxt "#30006"
 msgid "(GB) Show Borders"
 msgstr "（GB）显示边框"
 
-msgctxt "#30007"
-msgid "(GB) Color Correction"
-msgstr "（GB）颜色校正"
-
 msgctxt "#30008"
 msgid "LCD Color Filter"
 msgstr "LCD 彩色滤光片"
@@ -88,30 +84,6 @@ msgstr "传感器灵敏度（倾斜）（%）"
 msgctxt "#30018"
 msgid "Swap Left/Right Analog"
 msgstr "交换左/右模拟"
-
-msgctxt "#30019"
-msgid "Sound Channel 1"
-msgstr "声道1"
-
-msgctxt "#30020"
-msgid "Sound Channel 2"
-msgstr "声道2"
-
-msgctxt "#30021"
-msgid "Sound Channel 3"
-msgstr "声道3"
-
-msgctxt "#30022"
-msgid "Sound Channel 4"
-msgstr "声道4"
-
-msgctxt "#30023"
-msgid "Sound DMA Channel A"
-msgstr "声音 DMA 通道 A"
-
-msgctxt "#30024"
-msgid "Sound DMA Channel B"
-msgstr "声音 DMA 通道 B"
 
 msgctxt "#30025"
 msgid "Show Background Layer 1"
@@ -176,6 +148,58 @@ msgstr ""
 msgctxt "#30040"
 msgid "(GB) Surround Effects"
 msgstr ""
+
+msgctxt "#30041"
+msgid "Square Channel 1 (Sweep)"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Square Channel 2"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Wave Channel"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Noise Channel"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Direct Sound A (GBA only)"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Direct Sound B (GBA only)"
+msgstr ""
+
+#~ msgctxt "#30007"
+#~ msgid "(GB) Color Correction"
+#~ msgstr "（GB）颜色校正"
+
+#~ msgctxt "#30019"
+#~ msgid "Sound Channel 1"
+#~ msgstr "声道1"
+
+#~ msgctxt "#30020"
+#~ msgid "Sound Channel 2"
+#~ msgstr "声道2"
+
+#~ msgctxt "#30021"
+#~ msgid "Sound Channel 3"
+#~ msgstr "声道3"
+
+#~ msgctxt "#30022"
+#~ msgid "Sound Channel 4"
+#~ msgstr "声道4"
+
+#~ msgctxt "#30023"
+#~ msgid "Sound DMA Channel A"
+#~ msgstr "声音 DMA 通道 A"
+
+#~ msgctxt "#30024"
+#~ msgid "Sound DMA Channel B"
+#~ msgstr "声音 DMA 通道 B"
 
 #~ msgctxt "#30010"
 #~ msgid "Sound Interpolation"
