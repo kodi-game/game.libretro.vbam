@@ -7,7 +7,6 @@
 		<setting label="30004" type="select" id="vbam_allowcolorizerhack" values="disabled|enabled" default="disabled"/>
 		<setting label="30005" type="select" id="vbam_palettes" values="black and white|blue sea|dark knight|green forest|hot desert|pink dreams|wierd colors|original gameboy|gba sp" default="black and white"/>
 		<setting label="30006" type="select" id="vbam_showborders" values="disabled|enabled|auto" default="disabled"/>
-		<setting label="30007" type="select" id="vbam_gbcoloroption" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="vbam_lcdfilter" values="disabled|enabled" default="disabled"/>
 		<setting label="30033" type="select" id="vbam_lcdfilter_type" values="sRGB|DCI|Rec2020" default="sRGB"/>
 		<setting label="30034" type="select" id="vbam_color_change" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100" default="0"/>
@@ -25,12 +24,12 @@
 		<setting label="30016" type="select" id="vbam_gyro_sensitivity" values="100|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|105|110|115|120" default="100"/>
 		<setting label="30017" type="select" id="vbam_tilt_sensitivity" values="100|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|105|110|115|120" default="100"/>
 		<setting label="30018" type="select" id="vbam_swap_astick" values="disabled|enabled" default="disabled"/>
-		<setting label="30019" type="select" id="vbam_sound_1" values="enabled|disabled" default="enabled"/>
-		<setting label="30020" type="select" id="vbam_sound_2" values="enabled|disabled" default="enabled"/>
-		<setting label="30021" type="select" id="vbam_sound_3" values="enabled|disabled" default="enabled"/>
-		<setting label="30022" type="select" id="vbam_sound_4" values="enabled|disabled" default="enabled"/>
-		<setting label="30023" type="select" id="vbam_sound_5" values="enabled|disabled" default="enabled"/>
-		<setting label="30024" type="select" id="vbam_sound_6" values="enabled|disabled" default="enabled"/>
+		<setting label="30041" type="select" id="vbam_sound_1" values="enabled|disabled" default="enabled"/>
+		<setting label="30042" type="select" id="vbam_sound_2" values="enabled|disabled" default="enabled"/>
+		<setting label="30043" type="select" id="vbam_sound_3" values="enabled|disabled" default="enabled"/>
+		<setting label="30044" type="select" id="vbam_sound_4" values="enabled|disabled" default="enabled"/>
+		<setting label="30045" type="select" id="vbam_sound_5" values="enabled|disabled" default="enabled"/>
+		<setting label="30046" type="select" id="vbam_sound_6" values="enabled|disabled" default="enabled"/>
 		<setting label="30025" type="select" id="vbam_layer_1" values="enabled|disabled" default="enabled"/>
 		<setting label="30026" type="select" id="vbam_layer_2" values="enabled|disabled" default="enabled"/>
 		<setting label="30027" type="select" id="vbam_layer_3" values="enabled|disabled" default="enabled"/>
