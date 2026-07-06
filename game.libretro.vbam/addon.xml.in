@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Nintendo - Game Boy Advance (VBA-M)</summary>
 		<summary lang="da_DK">Nintendo - Game Boy Advance (VBA-M)</summary>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA-M)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy Advance (VBA-M)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Nintendo — Game Boy Advance (VBA-M)</summary>
 		<summary lang="sv_SE">Nintendo - Game Boy Advance (VBA-M)</summary>
 		<summary lang="zh_CN">任天堂 - Game Boy Advance (VBA-M)</summary>
+		<description lang="cs_CZ">VBA-M je emulátor Nintendo Game Boy a Game Boy Advance vycházející z oficiálního emulátoru VisualBoyAdvance od Forgottena a vývojového týmu VBA.</description>
 		<description lang="da_DK">VBA-M er en Nintendo Game Boy og Game Boy Advance-emulator baseret på den officielle VisualBoyAdvance af Forgotten og VBA-udviklingsteamet.</description>
 		<description lang="de_DE">VBA-M ist ein Emulator für Nintendo Game Boy und Game Boy Advance, der auf dem offiziellen VisualBoyAdvance von Forgotten und dem VBA-Entwicklerteam basiert.</description>
 		<description lang="en_GB">VBA-M is a Nintendo Game Boy and Game Boy Advance emulator based on the official VisualBoyAdvance by Forgotten and the VBA development team.</description>
