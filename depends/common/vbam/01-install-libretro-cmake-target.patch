@@ -1,0 +1,30 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 3eee40f..8d82943 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -592,8 +592,8 @@ if(NOT TRANSLATIONS_ONLY)
+     # deliverable is the wxQt app, so skip them there.
+     if(NOT ANDROID)
+         add_subdirectory(src/sdl)
+-        add_subdirectory(src/libretro)
+     endif()
++    add_subdirectory(src/libretro)
+ endif()
+ 
+ add_subdirectory(src/wx)
+diff --git a/src/libretro/CMakeLists.txt b/src/libretro/CMakeLists.txt
+index 9ad159f..da658fb 100644
+--- a/src/libretro/CMakeLists.txt
++++ b/src/libretro/CMakeLists.txt
+@@ -117,6 +117,11 @@ set_target_properties(vbam_libretro PROPERTIES
+     INTERPROCEDURAL_OPTIMIZATION OFF
+ )
+ 
++install(TARGETS vbam_libretro
++    RUNTIME DESTINATION ${CMAKE_INSTALL_LIBDIR}/libretro
++    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}/libretro
++)
++
+ # --- Platform-specific linker settings ---
+ 
+ if(MSVC)
