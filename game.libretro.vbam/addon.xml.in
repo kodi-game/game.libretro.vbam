@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vbam"
 		name="Nintendo - Game Boy Advance (VBA-M)"
-		version="2.2.3.73"
+		version="2.2.3.74"
 		provider-name="Forgotten, VBA-M Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>GBA</platforms>
+		<platforms>Nintendo - Game Boy Advance</platforms>
 		<extensions>dmg|gb|gbc|cgb|sgb|gba</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>

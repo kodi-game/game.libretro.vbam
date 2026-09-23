@@ -27,27 +27,27 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Use Official BIOS (If Available)"
-msgstr ""
+msgstr "Resmi BIOS'u kullanın (Varsa)"
 
 msgctxt "#30002"
 msgid "Force-Enable RTC"
-msgstr ""
+msgstr "RTC'yi Etkinleştir"
 
 msgctxt "#30003"
 msgid "(GB) Emulated Hardware (Needs Restart)"
-msgstr ""
+msgstr "(GB) Öykünülmüş Donanım (Yeniden Başlatılması Gerekiyor)"
 
 msgctxt "#30004"
 msgid "(GB) Enable Colorizer Hack (Needs Restart)"
-msgstr ""
+msgstr "(GB) Colorizer Hack'i Etkinleştir (Yeniden Başlatılması Gerekiyor)"
 
 msgctxt "#30005"
 msgid "(GB) Color Palette"
-msgstr ""
+msgstr "(GB) Renk Paleti"
 
 msgctxt "#30006"
 msgid "(GB) Show Borders"
-msgstr ""
+msgstr "(GB) Sınırları Göster"
 
 msgctxt "#30008"
 msgid "LCD Color Filter"
@@ -59,63 +59,63 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Enable Turbo Buttons"
-msgstr ""
+msgstr "Turbo Düğmelerini Etkinleştir"
 
 msgctxt "#30013"
 msgid "Turbo Delay (in frames)"
-msgstr ""
+msgstr "Turbo Gecikme (kare cinsinden)"
 
 msgctxt "#30014"
 msgid "Solar Sensor Level"
-msgstr ""
+msgstr "Solar Sensör Seviyesi"
 
 msgctxt "#30015"
 msgid "Sensors Deadzone (%)"
-msgstr ""
+msgstr "Sensörlerin Ölü Bölgesi (%)"
 
 msgctxt "#30016"
 msgid "Sensor Sensitivity (Gyroscope) (%)"
-msgstr ""
+msgstr "Sensör Hassasiyeti (Jiroskop) (%)"
 
 msgctxt "#30017"
 msgid "Sensor Sensitivity (Tilt) (%)"
-msgstr ""
+msgstr "Sensör Hassasiyeti (Eğim) (%)"
 
 msgctxt "#30018"
 msgid "Swap Left/Right Analog"
-msgstr ""
+msgstr "Sol / Sağ Analog Değiştirme"
 
 msgctxt "#30025"
 msgid "Show Background Layer 1"
-msgstr ""
+msgstr "Arka Plan Katmanını Göster 1"
 
 msgctxt "#30026"
 msgid "Show Background Layer 2"
-msgstr ""
+msgstr "Arka Plan Katmanını Göster 2"
 
 msgctxt "#30027"
 msgid "Show Background Layer 3"
-msgstr ""
+msgstr "Arka Plan Katmanını Göster 3"
 
 msgctxt "#30028"
 msgid "Show Background Layer 4"
-msgstr ""
+msgstr "Arka Plan Katmanını Göster 4"
 
 msgctxt "#30029"
 msgid "Show Sprite Layer"
-msgstr ""
+msgstr "Sprite Katmanını Göster"
 
 msgctxt "#30030"
 msgid "Show Window Layer 1"
-msgstr ""
+msgstr "Pencere Katmanını Göster 1"
 
 msgctxt "#30031"
 msgid "Show Window Layer 2"
-msgstr ""
+msgstr "Pencere Katmanını Göster 2"
 
 msgctxt "#30032"
 msgid "Show Sprite Window Layer"
-msgstr ""
+msgstr "Sprite Pencere Katmanını Göster"
 
 msgctxt "#30033"
 msgid "LCD Color Filter Type"
@@ -127,11 +127,11 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "(GBA) Sound Interpolation"
-msgstr ""
+msgstr "Ses Enterpolasyonu"
 
 msgctxt "#30036"
 msgid "(GBA) Sound Filtering"
-msgstr ""
+msgstr "Ses Filtreleme"
 
 msgctxt "#30037"
 msgid "(GB) Sound Effects"
@@ -151,27 +151,27 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "Square Channel 1 (Sweep)"
-msgstr ""
+msgstr "Ses Kanalı 1"
 
 msgctxt "#30042"
 msgid "Square Channel 2"
-msgstr ""
+msgstr "Ses Kanalı 2"
 
 msgctxt "#30043"
 msgid "Wave Channel"
-msgstr ""
+msgstr "Ses Kanalı 3"
 
 msgctxt "#30044"
 msgid "Noise Channel"
-msgstr ""
+msgstr "Ses Kanalı 4"
 
 msgctxt "#30045"
 msgid "Direct Sound A (GBA only)"
-msgstr ""
+msgstr "DMA Ses Kanalı A"
 
 msgctxt "#30046"
 msgid "Direct Sound B (GBA only)"
-msgstr ""
+msgstr "DMA Ses Kanalı B"
 
 msgctxt "#30047"
 msgid "System"
@@ -183,15 +183,15 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Use official BIOS when available. Core needs to be restarted for changes to apply."
-msgstr ""
+msgstr "Mümkün olduğunda resmi BIOS kullanın. Değişikliklerin uygulanabilmesi için çekirdeğin yeniden başlatılması gerekiyor."
 
 msgctxt "#30050"
 msgid "Forces the internal real-time clock to be enabled regardless of rom. Usuable for rom patches that requires clock to be enabled (aka Pokemon)."
-msgstr ""
+msgstr "RAM'den bağımsız olarak dahili gerçek zamanlı saati etkinleştirmeye zorlar. Saatin etkinleştirilmesini gerektiren rom yamalar için kullanılabilir (Pokemon gibi)."
 
 msgctxt "#30051"
 msgid "Sets the Game Boy hardware type to emulate. Restart core to apply."
-msgstr ""
+msgstr "Game Boy donanım tipini taklit edecek şekilde ayarlar. Uygulamak için çekirdeği yeniden başlatın."
 
 msgctxt "#30052"
 msgid "Game Boy Color"
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "Allows Colorizer hacked GB games (e.g. DX patched games) to normally run in GBC/GBA hardware type. This also disables the use of bios file. NOT RECOMMENDED for use on non-colorized games."
-msgstr ""
+msgstr "Colorizer'ın saldırıya uğramış GB oyunlarının (örn. DX yamalı oyunlar) normalde GBC / GBA donanım türünde çalışmasına izin verir. Bu ayrıca bios dosyasının kullanımını da devre dışı bırakır. Renklendirilmemiş oyunlarda kullanılması tavsiye edilmez."
 
 msgctxt "#30059"
 msgid "Video"
@@ -231,11 +231,11 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Set Game Boy palettes to use."
-msgstr ""
+msgstr "Game Boy paletlerini kullanmak için ayarlayın."
 
 msgctxt "#30062"
 msgid "When enabled, if loaded content is SGB compatible, this will show the border from the game if available."
-msgstr ""
+msgstr "Etkinleştirildiğinde, yüklü içerik SGB uyumluysa, bu durum oyundaki sınırı gösterir."
 
 msgctxt "#30063"
 msgid "Darkens the onscreen colors by applying a screen filter."
@@ -287,7 +287,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Applies low-pass filtering to smooth high-frequency noise in PCM audio."
-msgstr ""
+msgstr "Ses filtresini etkinleştirin veya devre dışı bırakın."
 
 msgctxt "#30076"
 msgid "Audio Driver"
@@ -307,7 +307,7 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "Adjusts the intensity of the low-pass filter applied to audio (0 = none, 10 = maximum)."
-msgstr ""
+msgstr "Kullanılacak filtreleme miktarını ayarlar. Yüksek değer, yüksek frekansları azaltır."
 
 msgctxt "#30081"
 msgid "Enables or disabled all Game Boy sound effects."
@@ -335,31 +335,31 @@ msgstr ""
 
 msgctxt "#30087"
 msgid "Enable or disable gamepad turbo buttons."
-msgstr ""
+msgstr "Gamepad turbo düğmelerini etkinleştirin veya devre dışı bırakın."
 
 msgctxt "#30088"
 msgid "Repeat rate of turbo triggers in frames. Higher value triggers more."
-msgstr ""
+msgstr "Karelerde turbo tetikleyicilerin oranını tekrarlayın. Daha yüksek değer daha fazla tetikler."
 
 msgctxt "#30089"
 msgid "Adjusts simulated solar level in Boktai games. L2/R2 buttons can also be used to quickly change levels."
-msgstr ""
+msgstr "Boktai oyunlarında simüle güneş seviyesini ayarlar. L2 / R2 düğmeleri ayrıca seviyeleri hızlıca değiştirmek için de kullanılabilir."
 
 msgctxt "#30090"
 msgid "Set deadzone (in percent) of analog sticks."
-msgstr ""
+msgstr "Analog çubukların ölü bölgesini (yüzde olarak) ayarlayın."
 
 msgctxt "#30091"
 msgid "Default bind is left analog. Used to adjust sensitivity level for gyro-enabled games."
-msgstr ""
+msgstr "Varsayılan konumlandırma, sol analogdur. Gyro özellikli oyunlar için hassasiyet seviyesini ayarlamak için kullanılır."
 
 msgctxt "#30092"
 msgid "Default bind is right analog. Used to adjust sensitivity level for gyro-enabled games."
-msgstr ""
+msgstr "Varsayılan konumlandırma sağ analogdur. Gyro özellikli oyunlar için hassasiyet seviyesini ayarlamak için kullanılır."
 
 msgctxt "#30093"
 msgid "Swaps left and right analog stick function for gyro and tilt."
-msgstr ""
+msgstr "Döndürme ve eğme için sola ve sağa analog çubuk işlevini değiştirir."
 
 msgctxt "#30094"
 msgid "Advanced options"
@@ -371,56 +371,56 @@ msgstr ""
 
 msgctxt "#30096"
 msgid "Enables or disables square wave channel 1 with frequency sweep (tone + sweep)."
-msgstr ""
+msgstr "Tonlu ve tarama ses kanalını etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30097"
 msgid "Enables or disables square wave channel 2 (tone only)."
-msgstr ""
+msgstr "Tonlu ses kanalını etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30098"
 msgid "Enables or disables programmable waveform channel (custom samples)."
-msgstr ""
+msgstr "Dalga çıkışı ses kanalını etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30099"
 msgid "Enables or disables noise generator channel (percussion / effects)."
-msgstr ""
+msgstr "Gürültü ses kanalını etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30100"
 msgid "Enables or disables Direct Sound channel A (PCM / DMA audio stream)."
-msgstr ""
+msgstr "DMA ses kanalı A'yı etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30101"
 msgid "Enables or disables Direct Sound channel B (PCM / DMA audio stream)."
-msgstr ""
+msgstr "DMA ses kanalı B'yi etkinleştirir veya devre dışı bırakır."
 
 msgctxt "#30102"
 msgid "Shows or hides background layer 1."
-msgstr ""
+msgstr "1. arka plan katmanını gösterir veya gizler."
 
 msgctxt "#30103"
 msgid "Shows or hides background layer 2."
-msgstr ""
+msgstr "2. arka plan katmanını gösterir veya gizler."
 
 msgctxt "#30104"
 msgid "Shows or hides background layer 3."
-msgstr ""
+msgstr "3. arka plan katmanını gösterir veya gizler."
 
 msgctxt "#30105"
 msgid "Shows or hides background layer 4."
-msgstr ""
+msgstr "4. arka plan katmanını gösterir veya gizler."
 
 msgctxt "#30106"
 msgid "Shows or hides sprite layer."
-msgstr ""
+msgstr "Sprite katmanını gösterir veya gizler."
 
 msgctxt "#30107"
 msgid "Shows or hides window layer 1."
-msgstr ""
+msgstr "Pencere katmanı 1'i gösterir veya gizler."
 
 msgctxt "#30108"
 msgid "Shows or hides window layer 2."
-msgstr ""
+msgstr "Pencere katmanı 2'yi gösterir veya gizler."
 
 msgctxt "#30109"
 msgid "Shows or hides sprite window layer."
-msgstr ""
+msgstr "Sprite pencere katmanını gösterir veya gizler."
