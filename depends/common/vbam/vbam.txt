@@ -1,1 +1,1 @@
-vbam https://github.com/visualboyadvance-m/visualboyadvance-m/archive/fb1e785532b97e80963b787d9387ade2bce952c9.tar.gz
+vbam https://github.com/visualboyadvance-m/visualboyadvance-m/archive/b0f418b0e9305315c941f93765aa58ed1928a45c.tar.gz
